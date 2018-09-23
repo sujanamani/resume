@@ -1,0 +1,18 @@
+h1 {
+	color: #0384ce;
+}
+.container {
+	max-width: 960px;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+.contact-info p span {
+	border-right: 1px solid #ddd;
+	padding-right: 10px;
+	margin-right: 10px;
+}
+.contact-info p span:last-child {
+	border-right: none;
+	padding-right: 0;
+	margin-right: 0;
+}
